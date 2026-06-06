@@ -1,0 +1,6 @@
+module CTinySpline {
+    header "tinysplinecxx.h"
+    header "tinyspline_swift_shim.h"
+    requires cplusplus
+    export *
+}

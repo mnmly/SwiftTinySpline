@@ -1,0 +1,7 @@
+tinyspline vendored sources
+repo:    https://github.com/msteinbeck/tinyspline.git
+tag:     v0.6.0
+commit:  5f0e8fa
+Re-sync with: Scripts/update-tinyspline.sh v0.6.0
+NOTE: include/tinyspline_swift_shim.h and include/module.modulemap are
+maintained by this package and are NOT overwritten by this script.
